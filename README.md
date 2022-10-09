@@ -2,6 +2,8 @@
 
 This is a simple data logger application for 4g routers to monitor the performace over time
 
+![Web Dashboard](https://raw.githubusercontent.com/nisalap/data-logger-for-4g-router/main/images/web.png)
+
 1. Install the requirements with pipenv Pipfile.
 2. Run the Data Logger with
 ```
